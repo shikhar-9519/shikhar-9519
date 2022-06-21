@@ -1,6 +1,6 @@
 ![git](https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif)
 
-   ### Hi there :) I'm Arpita
+   ### Hi there :) I'm Shikhar
 I'm a Computer Science Enthusiast 👨‍💻, Currently in third year at GL Bajaj Institute Of Technology And Manangement. 👨‍🎓
 
 <!--
@@ -17,7 +17,6 @@ Here are some ideas to get you started:--->
 - ⚡ Fun fact: Jack of all trades , Master of None !
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arpita938&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita938&layout=compact">
   
   <br>
+RESUME: 
