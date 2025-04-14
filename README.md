@@ -89,7 +89,7 @@ I've solved 1500+ DSA problems and regularly apply these problem-solving skills 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shikhar-9519&theme=react" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shikhar-9519" alt="GitHub Streak" /></a>
 </div>
 
 ## 📺 YouTube Channel
