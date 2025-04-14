@@ -67,10 +67,10 @@ I'm a passionate **Frontend Developer** specializing in creating beautiful, resp
 
 <div align="center">
   <a href="https://github.com/shikhar-9519/gfg-chrome-extension">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=react-project&theme=react" />
+    <img align="center" src="https://lh3.googleusercontent.com/2mLuYUZL8Z_qnrfIRPcQ6y1RBXC8zi4lJoJyrM3_xpGt-FKJ27M5ZBS6h0Imuo1435wQnrL2W1abVUGXdncaAoh700s=s120" />
   </a>
   <a href="https://github.com/shikhar-9519/playtube">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nextjs-project&theme=react" />
+    <img align="center" src="https://shikhar-9519.github.io/playtube/favicon.ico" />
   </a>
 </div>
 <br />
@@ -96,12 +96,12 @@ I've solved 1500+ DSA problems and regularly apply these problem-solving skills 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shikhar-9519&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar-9519&layout=compact&langs_count=7&theme=react" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar-9519&theme=react" alt="GitHub Streak" />
 </div>
 
 ## 📺 YouTube Channel
@@ -123,7 +123,7 @@ I share my frontend and DSA knowledge, tips, and tutorials on my YouTube channel
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=61DAFB&style=flat" alt="Profile Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=shikhar-9519&label=Profile%20views&color=61DAFB&style=flat" alt="Profile Visitor Count" />
 </div>
 
 ---
