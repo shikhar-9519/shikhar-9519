@@ -20,7 +20,7 @@ I'm a passionate **Frontend Developer** specializing in creating beautiful, resp
 - 🌱 I'm mastering **Advanced React Patterns and Frontend Architecture**
 - 💬 Ask me about **React, JavaScript, Frontend Performance, UI/UX Implementation**
 - 🧠 DSA enthusiast with expertise in algorithmic problem-solving
-- ⚡ Fun fact: **[Something interesting about your frontend journey]**
+- ⚡ Fun fact: **I once optimized a component so hard, it loaded before I even clicked it.**
 
 ## 🚀 Frontend Expertise
 
@@ -76,8 +76,8 @@ I believe in:
 
 As a frontend developer with strong DSA skills, I bring algorithmic thinking to frontend challenges:
 
-- **LeetCode**: [your_leetcode_profile](https://leetcode.com/u/shikhar_at_lc/)
-- **Geeksforgeeks**: [your_codechef_profile](https://www.geeksforgeeks.org/user/sgupta9519/)
+- **LeetCode**: shikhar_at_lc(https://leetcode.com/u/shikhar_at_lc/)
+- **Geeksforgeeks**: sgupta9519(https://www.geeksforgeeks.org/user/sgupta9519/)
 
 I've solved 1500+ DSA problems and regularly apply these problem-solving skills to optimize frontend algorithms, state management, and complex UI interactions.
 
