@@ -63,18 +63,6 @@ I'm a passionate **Frontend Developer** specializing in creating beautiful, resp
 
 </div>
 
-## 🏆 Frontend Projects
-
-<div align="center">
-  <a href="https://github.com/shikhar-9519/gfg-chrome-extension">
-    <img align="center" src="https://lh3.googleusercontent.com/2mLuYUZL8Z_qnrfIRPcQ6y1RBXC8zi4lJoJyrM3_xpGt-FKJ27M5ZBS6h0Imuo1435wQnrL2W1abVUGXdncaAoh700s=s120" />
-  </a>
-  <a href="https://github.com/shikhar-9519/playtube">
-    <img align="center" src="https://shikhar-9519.github.io/playtube/favicon.ico" />
-  </a>
-</div>
-<br />
-
 ## 💻 Frontend Development Approach
 
 I believe in:
@@ -108,7 +96,7 @@ I've solved 1500+ DSA problems and regularly apply these problem-solving skills 
 
 I share my frontend and DSA knowledge, tips, and tutorials on my YouTube channel:
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=social)](https://www.youtube.com/@5minutescode)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCE5_oIHXiARrzheamgm8CQA?style=social)](https://www.youtube.com/@5minutescode)
 
 ## 🤝 Connect With Me
 
