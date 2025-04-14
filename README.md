@@ -76,8 +76,8 @@ I believe in:
 
 As a frontend developer with strong DSA skills, I bring algorithmic thinking to frontend challenges:
 
-- **LeetCode**: shikhar_at_lc(https://leetcode.com/u/shikhar_at_lc/)
-- **Geeksforgeeks**: sgupta9519(https://www.geeksforgeeks.org/user/sgupta9519/)
+- **LeetCode**: https://leetcode.com/u/shikhar_at_lc/
+- **Geeksforgeeks**: https://www.geeksforgeeks.org/user/sgupta9519/
 
 I've solved 1500+ DSA problems and regularly apply these problem-solving skills to optimize frontend algorithms, state management, and complex UI interactions.
 
@@ -89,7 +89,7 @@ I've solved 1500+ DSA problems and regularly apply these problem-solving skills 
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shikhar-9519" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shikhar-9519" alt="GitHub Streak" /></a>
 </div>
 
 ## 📺 YouTube Channel
