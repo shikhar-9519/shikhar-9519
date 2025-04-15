@@ -2,7 +2,7 @@
   
 # Hello, I'm Shikhar Gupta👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=social&logo=react&logoColor=61DAFB)](https://shikhar-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://shikhar-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-gupta-98a15b197/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shikhar00317518?style=social)](https://x.com/Shikhar00317518)
 
