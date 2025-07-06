@@ -79,6 +79,10 @@ As a frontend developer with strong DSA skills, I bring algorithmic thinking to 
 - **LeetCode**: https://leetcode.com/u/shikhar_at_lc/
 - **Geeksforgeeks**: https://www.geeksforgeeks.org/user/sgupta9519/
 
+<div align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/shikhar_at_lc?ext=contest" />
+</div>
+
 I've solved 1500+ DSA problems and regularly apply these problem-solving skills to optimize frontend algorithms, state management, and complex UI interactions.
 
 ## 📈 GitHub Stats
